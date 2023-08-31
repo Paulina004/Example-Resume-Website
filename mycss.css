@@ -1,0 +1,11 @@
+/*! 
+My CSS Tweaks
+*/
+
+.new-background-color {
+    background-color: rgb(153, 0, 0);
+}
+
+.new-image-shape{
+    border-radius: 10%; 
+}
